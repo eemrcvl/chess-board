@@ -1,0 +1,9 @@
+C:\Users\emre_\source\repos\WindowsFormsApp18\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe.config
+C:\Users\emre_\source\repos\WindowsFormsApp18\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe
+C:\Users\emre_\source\repos\WindowsFormsApp18\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.pdb
+C:\Users\emre_\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form1.resources
+C:\Users\emre_\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Properties.Resources.resources
+C:\Users\emre_\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\ChessBoardWinForms.csproj.GenerateResource.cache
+C:\Users\emre_\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\ChessBoardWinForms.csproj.CoreCompileInputs.cache
+C:\Users\emre_\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.exe
+C:\Users\emre_\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.pdb
